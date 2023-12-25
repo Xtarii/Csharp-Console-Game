@@ -5,7 +5,7 @@ Simple Little C# Game
 
 
 
-This is a small litle simple Console Game
+This is a small little simple Console Game
 made with C#.
 
 
