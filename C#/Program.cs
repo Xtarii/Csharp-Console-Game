@@ -146,7 +146,7 @@ namespace C_
                     nextBoost += lastScore / 2;
 
                     // Rarity Change
-                    _ = rockSpawn == 100 ? rockSpawn : rockSpawn++;
+                    rockSpawn += rockSpawn != 100 ? 5 : 0;
                 }
 
 
